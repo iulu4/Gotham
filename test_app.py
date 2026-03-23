@@ -1,4 +1,4 @@
-import pytest
+
 from app import validar_codigo_sistema
 
 def test_codigo_valido():
