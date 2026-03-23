@@ -11,3 +11,4 @@ def validar_codigo_sistema(codigo: str) -> bool:
 
 if _name_ == "_main_":
     print(f"Teste de validação: {validar_codigo_sistema('GOTHAM-1234')}")
+    if _name_ == "_main_":
